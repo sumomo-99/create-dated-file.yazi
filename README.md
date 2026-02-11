@@ -2,6 +2,12 @@
 
 A [Yazi](https://github.com/sxyazi/yazi) plugin that creates a new directory prefixed with the current Unix timestamp.
 
+## Installation
+
+```bash
+ya pkg add sumomo-99/create-dated-file
+```
+
 ## Features
 
 - Prompts the user for a name.
